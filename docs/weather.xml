@@ -6,10 +6,10 @@
     <description>台北新北天气、大雨城市与预警</description>
     <atom:link href="https://eliu-lotso.github.io/tw-weather/weather.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>天气预报（2026-06-22 08:16）（未来 15 小时预报）</title>
-      <pubDate>Mon, 22 Jun 2026 00:16:25 GMT</pubDate>
-      <guid isPermaLink="false">weather-20260622T001625</guid>
-      <description><![CDATA[【台北市】今日天气：晴時多雲，26 ~ 36℃<br><br>【新北市】今日天气：晴時多雲，25 ~ 36℃<br><br>【桃园市】今日天气：晴時多雲，24 ~ 36℃<br><br>🌤️ **台北市未来两日**：晴時多雲，26~36℃，防暑<br><br>🌤️ **新北市未来两日**：晴時多雲，25~36℃，防暑<br><br>🌤️ **桃园市未来两日**：晴時多雲，24~36℃，防暑<br><br>✅ 当前无天气预警]]></description>
+      <title>天气预报（2026-06-23 08:12）（未来 15 小时预报）</title>
+      <pubDate>Tue, 23 Jun 2026 00:12:43 GMT</pubDate>
+      <guid isPermaLink="false">weather-20260623T001243</guid>
+      <description><![CDATA[【台北市】今日天气：晴時多雲，26 ~ 37℃<br><br>【新北市】今日天气：晴時多雲，26 ~ 36℃<br><br>【桃园市】今日天气：晴時多雲，26 ~ 36℃<br><br>🌤️ **台北市未来两日**：晴時多雲，26~37℃，防暑<br><br>🌤️ **新北市未来两日**：晴時多雲，26~36℃，防暑<br><br>🌤️ **桃园市未来两日**：晴時多雲，26~36℃，防暑<br><br>⚠️ 当前预警摘要（06月23日 00:12）：<br>AI摘要失败，原始预警如下：<br>=== 其他重要区域预警 ===<br>[相关地区] 官方濃霧特報: 今(23)日清晨至上午金門地區有局部霧或低雲影響能見度，金門已出現能見度不足200公尺的現象，請注意，（2026-06-23 04:49:00至2026-06-23 09:00:00）]]></description>
     </item>
   </channel>
 </rss>
