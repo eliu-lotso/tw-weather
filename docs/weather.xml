@@ -6,10 +6,10 @@
     <description>台北新北天气、大雨城市与预警</description>
     <atom:link href="https://eliu-lotso.github.io/tw-weather/weather.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>天气预报（2026-09-29 10:32）（未来 15 小时预报）</title>
-      <pubDate>Tue, 29 Sep 2026 02:32:23 GMT</pubDate>
-      <guid isPermaLink="false">weather-20260929T023223</guid>
-      <description><![CDATA[【台北市】今日天气：晴時多雲，25 ~ 36℃<br><br>【新北市】今日天气：晴時多雲，25 ~ 35℃<br><br>【桃园市】今日天气：晴時多雲，25 ~ 36℃<br><br>🌤️ **台北市未来两日**：晴時多雲，25~36℃，防暑<br><br>🌤️ **新北市未来两日**：晴時多雲，25~35℃，防暑<br><br>🌤️ **桃园市未来两日**：晴時多雲，25~36℃，防暑<br><br>✅ 当前无天气预警]]></description>
+      <title>天气预报（2026-09-30 09:54）（未来 15 小时预报）</title>
+      <pubDate>Wed, 30 Sep 2026 01:54:36 GMT</pubDate>
+      <guid isPermaLink="false">weather-20260930T015436</guid>
+      <description><![CDATA[【台北市】今日天气：多雲時晴，25 ~ 36℃<br><br>【新北市】今日天气：晴時多雲，25 ~ 35℃<br><br>【桃园市】今日天气：晴時多雲，25 ~ 36℃<br><br>🌤️ **台北市未来两日**：多雲時晴，25~36℃，防暑<br><br>🌤️ **新北市未来两日**：晴時多雲，25~35℃，防暑<br><br>🌤️ **桃园市未来两日**：晴時多雲，25~36℃，防暑<br><br>✅ 当前无天气预警]]></description>
     </item>
   </channel>
 </rss>
